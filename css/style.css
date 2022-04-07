@@ -1,0 +1,72 @@
+.top-container{
+ margin-bottom: 70px;
+}
+
+a:hover{
+  color:#A63EC5;
+}
+.middle-container{
+  margin:1.25rem auto;
+}
+.naruto-baby{
+  padding:0.625rem;
+  margin-bottom:6.25rem;
+}
+.sasuke-baby{
+  margin-top: 1.25rem;
+    margin-bottom:6.25rem;
+}
+.Naruto-giphy{
+  float:left;
+  width:21.875rem;
+  margin-bottom: 4.25rem;
+  border-radius: 40%;
+
+}
+.Sasuke-giphy
+{
+  width:21.875rem;
+  border-radius: 40%;
+
+  float:right;
+}
+.Sakura-giphy{
+  float:left;
+  width:20.875rem;
+  border-radius: 40%;
+
+}
+pre{
+  color:#F38BA0;
+
+  font-size: 1.25rem;
+}
+pre:hover{
+  color: #495371;
+}
+.sakura-noob{
+  padding:0.625rem;
+  margin-bottom:10rem;
+  margin-top: 6.25rem;
+}
+.bottom-container {
+  text-align: center;
+
+
+  margin: 11.875rem 0 0 0;
+
+
+  background-image: linear-gradient(#FDF6F0,#61A4BC);
+  padding:3.125rem 0 1.25rem;
+  font-family: 'Merriweather', serif;
+}
+.footer-link{
+  color:#FDF6F0;
+}
+.naruto-data{
+  margin-bottom: 4.25rem;
+}
+.sasuke-data{
+
+  margin-bottom: 10.125rem;
+}
